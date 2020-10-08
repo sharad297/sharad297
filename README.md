@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/sharad4175" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sharad4175" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/haack_pro16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="haack_pro16" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sharda297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sharda297" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sharad297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sharda297" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sharad4315" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sharad4315" height="30" width="40" /></a>
 </p>
 
